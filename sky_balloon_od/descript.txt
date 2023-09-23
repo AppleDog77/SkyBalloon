@@ -1,0 +1,101 @@
+charset,UTF-8
+type,balloon
+use_self_alpha,1
+use_input_alpha,1
+
+
+//——— Basic information ———
+name,Sky Balloon
+craftman,Odie
+craftmanurl,https://odiesocean.wordpress.com/
+homeurl,https://raw.githubusercontent.com/AppleDog77/SkyBalloon/main/sky_balloon_od/
+
+
+//——— Display area ———
+origin.x,0
+origin.y,0
+
+validrect.left,48
+validrect.top,36
+validrect.right,237
+validrect.bottom,222
+
+wordwrappoint.x,-28
+
+
+//——— Font ———
+font.name,Calibri
+font.height,15
+
+font.color.r,0
+font.color.g,100
+font.color.b,157
+
+anchor.font.color.r,067
+anchor.font.color.g,047
+anchor.font.color.b,081
+
+cursor.font.color.r,053
+cursor.font.color.g,128
+cursor.font.color.b,166
+
+cursor.pen.color.r,053
+cursor.pen.color.g,128
+cursor.pen.color.b,166
+
+cursor.style,underline
+
+disable.font.color.r,079
+disable.font.color.g,091
+disable.font.color.b,153
+
+
+//——— Arrows ———
+arrow0.x,240
+arrow0.y,35
+
+arrow1.x,240
+arrow1.y,205
+
+
+//——— Online marker ———
+onlinemarker.x,45
+onlinemarker.y,215
+
+onlinemarker.interval,175
+
+
+//——— SSTP ———
+sstpmarker.x,18
+sstpmarker.y,-18
+
+sstpmessage.font.name,Calibri
+sstpmessage.font.height,11
+
+sstpmessage.x,60
+sstpmessage.xr,-90
+sstpmessage.y,215
+
+sstpmessage.font.color.r,40
+sstpmessage.font.color.g,55
+sstpmessage.font.color.b,70
+
+
+//——— Number ———
+number.font.name,Calibri
+number.font.height,11
+
+number.xr,235
+number.y,215
+
+number.font.color.r,15
+number.font.color.g,75
+number.font.color.b,200
+
+
+//——— Input box ———
+communicatebox.x,8
+communicatebox.y,8
+
+communicatebox.width,283
+communicatebox.height,20
