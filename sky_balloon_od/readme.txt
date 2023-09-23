@@ -1,7 +1,7 @@
 ++Sky Balloon v1.0.0 Readme++
 Created by Odie at odiesocean.wordpress.com and appledog77.github.io.
 
-My second ever balloon! Fly into the vast blue skies with this freeballoon! I love cloudwatching, so I decided to make this for the Etc. Jam 2023. Doesn't go with any particular ghost I've made yet, so use it for any ghost you wish! In fact, it's public domain :D
+My second ever balloon! Fly into the vast blue skies with this freeballoon! I love cloudwatching, so I decided to make this for the Etc. Jam 2023. Doesn't go with any particular ghost I've made yet, so use it for any ghost you wish!
 
 Contact: derederedoggy@gmail.com
 
